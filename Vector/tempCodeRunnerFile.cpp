@@ -1,0 +1,3 @@
+  cout<<ele<<" " ;
+}
+cout<<endl;
